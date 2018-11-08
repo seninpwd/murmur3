@@ -2,8 +2,12 @@
 murmurhash in verilog exercise 
 
 ### 0.0. The algorithm
-[StackOverflow baadf00d diagram](https://stackoverflow.com/questions/1057036/please-explain-murmur-hash)
+[StackOverflow](https://stackoverflow.com/questions/1057036/please-explain-murmur-hash)
+![BAAD F00D](https://i.stack.imgur.com/7Q4SD.png)
+
 [Wikipedia algo](https://en.wikipedia.org/wiki/MurmurHash)
+
+
 
 ### 0.1. The online playground
 Is at the EDA-Playground: [https://www.edaplayground.com/x/3Bwa](https://www.edaplayground.com/x/3Bwa).
