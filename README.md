@@ -1,6 +1,9 @@
 # MurMur #3
 murmurhash in verilog exercise 
 
+### 0.0. The online playground
+Is at the EDA-Playground: [https://www.edaplayground.com/x/3Bwa](https://www.edaplayground.com/x/3Bwa).
+
 ### 1.0. building SV file:
     $ iverilog '-Wall' design.sv testbench.sv
     design.sv:9: warning: var/net declaration of chunk inherits dimensions from port declaration.
