@@ -2,7 +2,10 @@
 murmurhash in verilog exercise 
 
 ### 0.0. The algorithm
+
 [StackOverflow](https://stackoverflow.com/questions/1057036/please-explain-murmur-hash)
+
+
 ![BAAD F00D](https://i.stack.imgur.com/7Q4SD.png)
 
 [Wikipedia algo](https://en.wikipedia.org/wiki/MurmurHash)
