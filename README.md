@@ -9,7 +9,8 @@ murmurhash in verilog exercise
 
 [Wikipedia algo](https://en.wikipedia.org/wiki/MurmurHash)
 
-
+### 0.0. The online hash testing
+Here is the [http://murmurhash.shorelabs.com/](http://murmurhash.shorelabs.com/)
 
 ### 0.1. The online playground
 Is at the EDA-Playground: [https://www.edaplayground.com/x/3Bwa](https://www.edaplayground.com/x/3Bwa).
